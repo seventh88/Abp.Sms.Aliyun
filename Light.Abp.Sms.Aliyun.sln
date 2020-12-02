@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Light.Abp.Sms.Aliyun", "src\Light.Abp.Sms.Aliyun.csproj", "{38C8253A-BEA4-464F-BB42-E9F7EC4E5C5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Light.Abp.Sms.Aliyun", "src\Light.Abp.Sms.Aliyun\Light.Abp.Sms.Aliyun.csproj", "{A3D27983-885F-4F67-8AA7-1F8C70AD7B38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{38C8253A-BEA4-464F-BB42-E9F7EC4E5C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{38C8253A-BEA4-464F-BB42-E9F7EC4E5C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{38C8253A-BEA4-464F-BB42-E9F7EC4E5C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{38C8253A-BEA4-464F-BB42-E9F7EC4E5C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D27983-885F-4F67-8AA7-1F8C70AD7B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D27983-885F-4F67-8AA7-1F8C70AD7B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D27983-885F-4F67-8AA7-1F8C70AD7B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D27983-885F-4F67-8AA7-1F8C70AD7B38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
