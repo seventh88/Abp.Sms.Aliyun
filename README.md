@@ -1,6 +1,6 @@
 # Abp.Sms.Aliyun
 
-ABP 验证码模块
+ABP 阿里云短信模块
 
 ## 1. 介绍
 
