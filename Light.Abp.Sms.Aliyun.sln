@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Light.Abp.Sms.Aliyun", "src\Light.Abp.Sms.Aliyun\Light.Abp.Sms.Aliyun.csproj", "{A3D27983-885F-4F67-8AA7-1F8C70AD7B38}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00 SolutionFiles", "00 SolutionFiles", "{48D48180-3C69-4EC3-97C0-007ED70AD4CB}"
+	ProjectSection(SolutionItems) = preProject
+		common.props = common.props
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
